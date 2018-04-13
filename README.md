@@ -32,4 +32,4 @@ You can also use the Extension search feature (⇧⌘X | ⌃⇧X), and search fo
 
 ![alt text][preview]
 
-[preview]: images/preview.jpg "After Dark Preview"
+[preview]: https://github.com/ariesb/afterdark-vscode-theme/raw/master/images/preview.jpg "After Dark Preview"
