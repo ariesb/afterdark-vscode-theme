@@ -1,0 +1,35 @@
+{
+	"name": "afterdark",
+	"displayName": "After Dark",
+	"description": "Darked Visual Studio Code theme optimised for Operator Mono",
+	"version": "0.0.1",
+	"publisher": "ariesbe",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ariesb/afterdark-vscode-theme/issues"
+	},
+	"homepage": "https://github.com/ariesb/afterdark-vscode-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ariesb/afterdark-vscode-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/afterdark.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "After Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/afterdark.json"
+			}
+		]
+	},
+	"keywords": [
+		"theme"
+	]
+}
