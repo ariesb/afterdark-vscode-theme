@@ -29,3 +29,7 @@ _Note: Operator Mono is not included_
 You can also use the Extension search feature (⇧⌘X | ⌃⇧X), and search for **`afterdark`**.
 
 ## Screenshot
+
+![alt text][preview]
+
+[preview]: images/preview.jpg "After Dark Preview"
