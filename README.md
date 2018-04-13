@@ -5,7 +5,7 @@ Darked Visual Studio Code theme based on optimised for use with the [Operator Mo
 
 ## Installation
 
-The theme is available on the [Visual Studio Marketplace]() and can be installed in VS Code via Quick Open (⌘P | ⌃P) by running:
+The theme is available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com) and can be installed in VS Code via Quick Open (⌘P | ⌃P) by running:
 
 ```
 ext install afterdark
