@@ -9,10 +9,12 @@
     },
     {
       "name": "Control keyword",
-      "scope": ["keyword.control"],
+      "scope": [
+        "keyword.control"
+      ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c10135"
+        "foreground": "#D96585"
       }
     },
     {
