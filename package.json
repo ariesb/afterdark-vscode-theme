@@ -2,7 +2,7 @@
 	"name": "afterdark",
 	"displayName": "After Dark",
 	"description": "Darked Visual Studio Code theme optimised for Operator Mono",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "ariesbe",
 	"license": "MIT",
 	"bugs": {

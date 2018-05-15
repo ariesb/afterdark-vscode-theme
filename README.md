@@ -33,3 +33,7 @@ You can also use the Extension search feature (⇧⌘X | ⌃⇧X), and search fo
 ![alt text][preview]
 
 [preview]: https://github.com/ariesb/afterdark-vscode-theme/raw/master/images/preview.jpg "After Dark Preview"
+
+## Contributors
+- ariesbe (https://github.com/ariesb)
+- AndrewUsher (https://github.com/AndrewUsher)
